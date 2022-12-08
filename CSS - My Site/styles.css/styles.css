@@ -1,0 +1,145 @@
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    color: #DBA39A;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+
+}
+
+h2 {
+    color: #DBA39A;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #DBA39A;
+}
+
+p {
+    line-height: 2;
+}
+
+hr {
+    border-top: dotted #F5EBE0 6px;
+    border-bottom: none;
+    width: 5%;
+    margin: 100px auto;
+}
+
+a {
+    color: #F5EBE0;
+    font-family: Montserrat;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #FEFCF3;
+}
+
+.top-container {
+    background-color: #F0DBDB;
+    position: relative;
+    padding-top: 100px;
+}
+
+.sub-title {
+    font-size: 20px;
+}
+
+.middle-container {
+    background-color: #FEFCF3;
+    margin: 200px, 0;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.bottom-container {
+    background-color: #DBA39A;
+    padding: 50px 0 20px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.qa-image {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.coding-image {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+
+
+.learning {
+    text-decoration: underline;
+}
+
+.intro {
+    width: 20%;
+    margin: auto;
+}
+
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.copyright {
+    color: #F5EBE0;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+.footer-link {
+    color: #F0DBDB;
+}
+
+
+.btn {
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    background: #FFDCA9;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #FAAB78;
+    text-decoration: none;
+}
